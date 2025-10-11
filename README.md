@@ -4,7 +4,7 @@ This repository contains my complete data analytics portfolio focused on explori
 
 ---
 
-## 📊 Project Overview (4 Interactive Dashboards)
+## Project Overview (4 Interactive Dashboards)
 
 This analysis is broken down into four key areas, with each dashboard designed for specialized insights:
 
@@ -38,17 +38,17 @@ This analysis is broken down into four key areas, with each dashboard designed f
 
 ---
 
-## 💡 Key Analytical Insights (What I Found)
+## Key Analytical Insights (What I Found)
 
 *(**IMPORTANT:** Fill in these three points with specific findings you extracted from the data. Do not leave them as placeholders.)*
 
-1.  **[INSIGHT 1: Example - Identified a 15% increase in peak PM2.5 levels during the winter months (Nov-Jan) across North Indian metropolitan areas, suggesting a seasonal regulatory focus.]**
-2.  **[INSIGHT 2: Briefly describe a key trend you found in the Population or GHG data.]**
-3.  **[INSIGHT 3: Briefly describe a key observation about temperature or air quality correlation.]**
+1.  **INSIGHT 1: Example - Identified a 15% increase in peak PM2.5 levels during the winter months (Nov-Jan) across North Indian metropolitan areas, suggesting a seasonal regulatory focus.**
+2.  **INSIGHT 2: Briefly describe a key trend you found in the Population or GHG data.**
+3.  **INSIGHT 3: Briefly describe a key observation about temperature or air quality correlation.**
 
 ---
 
-## 🛠️ Technology and Data Workflow
+## Technology and Data Workflow
 
 * **Primary Tool:** **Microsoft Power BI** (for data modeling, DAX, and visualization).
 * **Data Sources:** Multiple **CSV** and **XLSX** files sourced from public domains.
